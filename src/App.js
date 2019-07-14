@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Test from "./Test";
 import Home from "./Home";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
